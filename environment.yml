@@ -11,3 +11,5 @@ dependencies:
   - pandas=1.1.*
   - kaggle=1.5.*
   - seaborn=0.11.*
+  - lightgbm=3.0.*
+  - xgboost=1.2.*
